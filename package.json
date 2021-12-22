@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watchAll"
+  }
+}
